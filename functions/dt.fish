@@ -1,3 +1,3 @@
 function dt
-   /usr/local/bin/doing today
+   doing today
 end

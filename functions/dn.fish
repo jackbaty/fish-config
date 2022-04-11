@@ -1,3 +1,3 @@
 function dn
-   command /usr/local/bin/doing now $argv
+   command /Users/jbaty/.rbenv/shims/doing now $argv
 end
